@@ -21,7 +21,7 @@ The parts were manufactured using Fused Deposition Modeling (FDM).
 * **Printer:** Bambu Lab P1S.
 * **Material:** PLA Basic.
 * **Slicer Settings:**
-    * **Infill:** 15% (Grid pattern).
+    * **Infill:** 10% (Grid pattern).
     * **Wall Loops:** Standard.
     * **Layer Height:** 0.20mm.
 
